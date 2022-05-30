@@ -1,5 +1,5 @@
 ### Hi I'm Ezéchiel ADEDE👋
-I'm interresting in pytho programming language
+I'm interresting in python programming language
 <!--
 **Starias22/Starias22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
