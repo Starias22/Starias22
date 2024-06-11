@@ -20,8 +20,7 @@ I am a passionate Data Scientist with a keen interest in Big data, machine learn
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/starias22/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/yourtwitter/)
-[![Personal Website](https://img.shields.io/badge/Website-red?style=flat&logo=google-chrome&labelColor=red)](https://yourwebsite.com/)
+[![Personal Website](https://img.shields.io/badge/Website-red?style=flat&logo=google-chrome&labelColor=red)](https://mywebsite.com/)
 
 ## My Projects
 
@@ -29,10 +28,10 @@ I am a passionate Data Scientist with a keen interest in Big data, machine learn
 
 A system designed to provide personalized news recommendations using big data technologies. It processes large streams of news articles and user interaction data to suggest relevant news content to users.
 
-- [Repository](https://github.com/yourusername/Big-Data-News-Recommender)
-- [Read More](https://yourwebsite.com/big-data-news-recommender)
+- [Repository](https://github.com/Starias/Big-Data-News-Recommender)
+- [Read More](https://nywebsite.com/big-data-news-recommender)
 
 ### Other Projects
 
-- [Project 1](https://github.com/yourusername/project1): Description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of project 2.
+- [Project 1](https://github.com/Starias22/project1): Description of project 1.
+- [Project 2](https://github.com/Starias22/project2): Description of project 2.
