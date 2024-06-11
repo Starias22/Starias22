@@ -28,7 +28,7 @@ I am a passionate Data Scientist with a keen interest in Big data, machine learn
 
 A system designed to provide personalized news recommendations using big data technologies. It processes large streams of news articles and user interaction data to suggest relevant news content to users.
 
-- [Repository](https://github.com/Starias/Big-Data-News-Recommender)
+- [Repository](https://github.com/Starias22/Big-Data-News-Recommender)
 - [Read More](https://nywebsite.com/big-data-news-recommender)
 
 ### Other Projects
