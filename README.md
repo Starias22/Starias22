@@ -5,8 +5,8 @@
 
 I am a passionate Data Scientist with a keen interest in Big data, machine learning, and Data Engineering. I love working on projects that involve large-scale data processing and creating solutions that can make a difference.
 
-- 🔭 I’m currently working on: Big Data News Recommender
-- 🌱 I’m currently learning: Advanced Kafka  Pyspark and Hadoop techniques
+- 🔭 I’m currently working on: Africa News API
+- 🌱 I’m currently learning: NoSQL Databases
 - 👯 I’m looking to collaborate on: Open source projects related to big data, machine learning and data engineering
 - 🤔 I’m looking for help with: Optimizing distributed data processing systems
 - 💬 Ask me about: Python, Kafka, Redis, Big Data, Machine Learning
@@ -24,14 +24,18 @@ I am a passionate Data Scientist with a keen interest in Big data, machine learn
 
 ## My Projects
 
+### Africa News API
+
+- An API aggregating news articles from various African media platforms into a database. These news are then made accessible through dedicated endpoints.
+
+- Tools: Python, Selenium, Apache Spark, Apache Airflow, PostgreSQL, Flask, Docker
+
+- [Repository](https://github.com/Starias22/Africa-News-API)
+- 
 ### Big Data News Recommender
 
 A system designed to provide personalized news recommendations using big data technologies. It processes large streams of news articles and user interaction data to suggest relevant news content to users.
 
 - [Repository](https://github.com/Starias22/Big-Data-News-Recommender)
-- [Read More](https://starias22.github.io/big-data-news-recommender)
+<!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
 
-### Other Projects
-
-- [Project 1](https://github.com/Starias22/project1): Description of project 1.
-- [Project 2](https://github.com/Starias22/project2): Description of project 2.
