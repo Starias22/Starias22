@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a passionate Data Scientist with a keen interest in Big data, machine learning, and Data Engineering. I love working on projects that involve large-scale data processing and creating solutions that can make a difference.
+I am a passionate Data Engineer. I love working on projects that involve large-scale data processing and creating solutions that can make a difference.
 
 - 🔭 I’m currently working on: Africa News API
 - 🌱 I’m currently learning: NoSQL Databases
