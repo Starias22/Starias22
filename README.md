@@ -31,7 +31,7 @@ I am a passionate Data Scientist with a keen interest in Big data, machine learn
 - Tools: Python, Selenium, Apache Spark, Apache Airflow, PostgreSQL, Flask, Docker
 
 - [Repository](https://github.com/Starias22/Africa-News-API)
-- 
+  
 ### Big Data News Recommender
 
 A system designed to provide personalized news recommendations using big data technologies. It processes large streams of news articles and user interaction data to suggest relevant news content to users.
