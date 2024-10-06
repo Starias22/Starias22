@@ -77,5 +77,5 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 
 - May 2024, **IBM- Coursera**: [Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/DEQJGNZ3Y67Z)
   
-- April 2024, **NVIDIA**: [undamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=vjqJEaJzRvGwfpqRS_5rAg)
+- April 2024, **NVIDIA**: [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=vjqJEaJzRvGwfpqRS_5rAg)
 
