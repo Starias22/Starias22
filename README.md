@@ -26,7 +26,7 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 
 ### Africa News API
 
-- Period: September to October 2024
+- **Period**: September to October 2024
   
 - Summary: An API aggregating news articles from various African media platforms into a database. These news are then made accessible through dedicated endpoints.
   
