@@ -56,7 +56,7 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
   
 <!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
 
-### Development of a mobile application for employee presence management (Bachelor Degree Capstone Project)
+### Development of a mobile application for employee presence management (Bachelor's Degree Capstone Project)
 
 - **Period**: From May to August 2022
 
@@ -64,4 +64,18 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 
 - **Tools**: Flutter, Dart, Firestore, Fingerprint Sensor, Microcontroller (ESP32)
 - [Repository](https://github.com/Starias22/PresenceApp)
+
+### Certifications
+
+- September 2024, **IBM- Coursera**: [BI Foundations with SQL, ETL and Data Warehousing Specialization](https://www.coursera.org/account/accomplishments/specialization/E3HXFH5IT98H) 
+
+- September 2024, **IBM- Coursera**: [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/records/41P3PS4GKMYA) 
+
+- August 2024, **IBM- Coursera**: [Data Engineering Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/MEVE884X464A)
+
+- August 2024, **IBM- Coursera**: [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/records/SJ09UD921KRI)
+
+- May 2024, **IBM- Coursera**: [Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/DEQJGNZ3Y67Z)
+  
+- April 2024, **NVIDIA**: [undamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=vjqJEaJzRvGwfpqRS_5rAg)
 
