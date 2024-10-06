@@ -28,19 +28,19 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 
 - **Period**: September to October 2024
   
-- Summary: An API aggregating news articles from various African media platforms into a database. These news are then made accessible through dedicated endpoints.
+- **Summary**: An API aggregating news articles from various African media platforms into a database. These news are then made accessible through dedicated endpoints.
   
-- Tools: Python, Selenium, Apache Spark, Apache Airflow, PostgreSQL, FastAPI, Docker, Kubernetes
+- **Tools**: Python, Selenium, Apache Spark, Apache Airflow, PostgreSQL, FastAPI, Docker, Kubernetes
 
 - [Repository](https://github.com/Starias22/Africa-News-API)
   
 ### Big Data News Recommender
 
-- Period: May to July 2024
+- **Period**: May to July 2024
 
-- Summary: Developed a scalable system using big data technologies to recommend news articles based on user preferences and interactions.
+- **Summary**: Developed a scalable system using big data technologies to recommend news articles based on user preferences and interactions.
 
-- Tools: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
+- **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
 
 
 - [Repository](https://github.com/Starias22/Big-Data-News-Recommender)
