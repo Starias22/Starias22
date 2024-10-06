@@ -65,7 +65,7 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 - **Tools**: Flutter, Dart, Firestore, Fingerprint Sensor, Microcontroller (ESP32)
 - [Repository](https://github.com/Starias22/PresenceApp)
 
-### Certifications
+### My Certifications
 
 - September 2024, **IBM- Coursera**: [BI Foundations with SQL, ETL and Data Warehousing Specialization](https://www.coursera.org/account/accomplishments/specialization/E3HXFH5IT98H) 
 
