@@ -56,12 +56,12 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
   
 <!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
 
-### Development of a mobile application for employee presence management (Bachelor Capstone Project)
+### Development of a mobile application for employee presence management (Bachelor Degree Capstone Project)
 
 - **Period**: From May to August 2022
 
 - **Summary**: Developed a mobile application to manage employee attendance, leveraging Flutter for the front end and Firestore for data storage. Integrated a fingerprint sensor with a microcontroller (ESP32) for secure check-ins and check-outs.
 
 - **Tools**: Flutter, Dart, Firestore, Fingerprint Sensor, Microcontroller (ESP32)
-- - [Repository](https://github.com/Starias22/PresenceApp)
+- [Repository](https://github.com/Starias22/PresenceApp)
 
