@@ -5,9 +5,9 @@
 
 I am a passionate Data Engineer. I love working on projects that involve large-scale data processing and creating solutions that can make a difference.
 
-- 🔭 I’m currently working on: Africa News API
+- 🔭 I’m currently working on: [Africa News API](https://github.com/Starias22/Africa-News-API)
 - 🌱 I’m currently learning: NoSQL Databases
-- 👯 I’m looking to collaborate on: Open source projects related to big data, machine learning and data engineering
+- 👯 I’m looking to collaborate on: Open source projects related to big data, machine learning, and data engineering
 - 🤔 I’m looking for help with: Optimizing distributed data processing systems
 - 💬 Ask me about: Python, Kafka, Redis, Big Data, Machine Learning
 - 📫 How to reach me: Gbetoho.ADEDE@um6p.ma
