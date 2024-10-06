@@ -44,7 +44,7 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
   
 - [Repository](https://github.com/Starias22/BI-and-Data-Warehousing-Solution-for-E-commerce)
   
-### Big Data News Recommender
+### Big Data News Recommender (Master Semester 2 Capstone Project)
 
 - **Period**: May to July 2024
 
