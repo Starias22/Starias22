@@ -26,13 +26,23 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 
 ### Africa News API
 
-- **Period**: September to October 2024
+- **Period**:  Since September 2024
   
 - **Summary**: An API aggregating news articles from various African media platforms into a database. These news are then made accessible through dedicated endpoints.
   
 - **Tools**: Python, Selenium, Apache Spark, Apache Airflow, PostgreSQL, FastAPI, Docker, Kubernetes
 
 - [Repository](https://github.com/Starias22/Africa-News-API)
+
+### BI and Data Warehousing Solution for E-commerce
+
+- **Period**: From September to October 2024
+
+- **Summary**: Developed a hybrid data platform for e-commerce, integrating MySQL for transactional data with a PostgreSQL staging warehouse and IBM DB2 production warehouse. Implemented ETL processes and created operational dashboards using IBM Cognos Analytics.
+  
+- **Tools**: MySQL, PostgreSQL, IBM DB2, IBM Cognos Analytics, Bash, Cron
+  
+- [Repository](https://github.com/Starias22/BI-and-Data-Warehousing-Solution-for-E-commerce)
   
 ### Big Data News Recommender
 
@@ -42,7 +52,7 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 
 - **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
 
-
 - [Repository](https://github.com/Starias22/Big-Data-News-Recommender)
+  
 <!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
 
