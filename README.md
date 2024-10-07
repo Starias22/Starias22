@@ -67,15 +67,15 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 
 ## My Certifications
  
-- October 2024, **IBM- Coursera**: [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XDLRTSQS4ZBP) 
+- October 2024, **IBM - Coursera**: [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XDLRTSQS4ZBP) 
 
-- September 2024, **IBM- Coursera**: [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/records/41P3PS4GKMYA) 
+- September 2024, **IBM - Coursera**: [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/records/41P3PS4GKMYA) 
 
-- August 2024, **IBM- Coursera**: [Data Engineering Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/MEVE884X464A)
+- August 2024, **IBM - Coursera**: [Data Engineering Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/MEVE884X464A)
 
-- August 2024, **IBM- Coursera**: [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/records/SJ09UD921KRI)
+- August 2024, **IBM - Coursera**: [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/records/SJ09UD921KRI)
 
-- May 2024, **IBM- Coursera**: [Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/DEQJGNZ3Y67Z)
+- May 2024, **IBM - Coursera**: [Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/DEQJGNZ3Y67Z)
   
 - April 2024, **NVIDIA**: [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=vjqJEaJzRvGwfpqRS_5rAg)
 
