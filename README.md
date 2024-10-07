@@ -66,8 +66,8 @@ I am a passionate Data Engineer. I love working on projects that involve large-s
 - [Repository](https://github.com/Starias22/PresenceApp)
 
 ## My Certifications
-
-- September 2024, **IBM- Coursera**: [BI Foundations with SQL, ETL and Data Warehousing Specialization](https://www.coursera.org/account/accomplishments/specialization/E3HXFH5IT98H) 
+ 
+- October 2024, **IBM- Coursera**: [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XDLRTSQS4ZBP) 
 
 - September 2024, **IBM- Coursera**: [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/records/41P3PS4GKMYA) 
 
