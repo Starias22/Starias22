@@ -24,9 +24,20 @@ I am a Data Engineering Student. I love working on projects that involve large-s
 
 ## My Projects
 
+### Benin Citizen Opinions Analysis
+
+- **Period**:  Since October 2024
+  
+- **Summary**: 
+  
+- **Tools**: 
+
+- [Repository](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
+  
+
 ### Africa News API
 
-- **Period**:  Since September 2024
+- **Period**:  From September to October 2024
   
 - **Summary**: An API aggregating news articles from various African media platforms into a database. These news are then made accessible through dedicated endpoints.
   
@@ -36,7 +47,7 @@ I am a Data Engineering Student. I love working on projects that involve large-s
 
 ### BI and Data Warehousing Solution for E-commerce
 
-- **Period**: From September to October 2024
+- **Period**: September 2024
 
 - **Summary**: Developed a hybrid data platform for e-commerce, integrating MySQL for transactional data with a PostgreSQL staging warehouse and IBM DB2 production warehouse. Implemented ETL processes and created operational dashboards using IBM Cognos Analytics.
   
