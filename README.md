@@ -24,15 +24,13 @@ I am a Data Engineering Student. I love working on projects that involve large-s
 
 ## My Projects
 
-### Benin Citizen Opinions Analysis
+### [Benin Citizen Opinions Analysis](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
 
 - **Period**:  Since October 2024
   
 - **Summary**: 
   
 - **Tools**: 
-
-- [Repository](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
   
 
 ### Africa News API
