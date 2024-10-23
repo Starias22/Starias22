@@ -24,7 +24,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 ## My Projects
 
-### [Benin Citizen Opinions Analysis](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
+### [Benin Citizen Opinions Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
 
 - **Period**:  Since October 2024
   
