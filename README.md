@@ -33,7 +33,7 @@ I am a Data Engineering Student. I love working on projects that involve large-s
 - **Tools**: 
   
 
-### Africa News API
+### [Africa News API](https://github.com/Starias22/Africa-News-API)
 
 - **Period**:  From September to October 2024
   
@@ -41,9 +41,8 @@ I am a Data Engineering Student. I love working on projects that involve large-s
   
 - **Tools**: Python, Selenium, Apache Spark, Apache Airflow, PostgreSQL, FastAPI, Docker, Kubernetes
 
-- [Repository](https://github.com/Starias22/Africa-News-API)
 
-### BI and Data Warehousing Solution for E-commerce
+### [BI and Data Warehousing Solution for E-commerce](https://github.com/Starias22/BI-and-Data-Warehousing-Solution-for-E-commerce)
 
 - **Period**: September 2024
 
@@ -51,28 +50,23 @@ I am a Data Engineering Student. I love working on projects that involve large-s
   
 - **Tools**: MySQL, PostgreSQL, IBM DB2, IBM Cognos Analytics, Bash, Cron
   
-- [Repository](https://github.com/Starias22/BI-and-Data-Warehousing-Solution-for-E-commerce)
-  
-### Big Data News Recommender (Master Semester 2 Capstone Project)
+### [Big Data News Recommender (Master Semester 2 Capstone Project)](https://github.com/Starias22/Big-Data-News-Recommender)
 
 - **Period**: May to July 2024
 
 - **Summary**: Developed a scalable system using big data technologies to recommend news articles based on user preferences and interactions.
 
 - **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
-
-- [Repository](https://github.com/Starias22/Big-Data-News-Recommender)
   
 <!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
 
-### Development of a mobile application for employee presence management (Bachelor's Degree Capstone Project)
+### [Development of a mobile application for employee presence management (Bachelor's Degree Capstone Project)](https://github.com/Starias22/PresenceApp)
 
 - **Period**: From May to August 2022
 
 - **Summary**: Developed a mobile application to manage employee attendance, leveraging Flutter for the front end and Firestore for data storage. Integrated a fingerprint sensor with a microcontroller (ESP32) for secure check-ins and check-outs.
 
 - **Tools**: Flutter, Dart, Firestore, Fingerprint Sensor, Microcontroller (ESP32)
-- [Repository](https://github.com/Starias22/PresenceApp)
 
 ## My Certifications
  
