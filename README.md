@@ -20,7 +20,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/starias22/)
-[![Personal Website](https://img.shields.io/badge/Website-red?style=flat&logo=google-chrome&labelColor=red)](https://starias22.github.io/)
+<!--[![Personal Website](https://img.shields.io/badge/Website-red?style=flat&logo=google-chrome&labelColor=red)](https://starias22.github.io/)-->
 
 ## My Projects
 
