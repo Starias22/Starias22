@@ -1,5 +1,5 @@
 
-# Hi there, I'm Gbètoho Ezéchiel ADEDE 👋
+# Hi there, I'm Gbètoho Ezéchiel ADEDE 👋  <img align="right" src="https://komarev.com/ghpvc/?username=starias22&label=Profile%20views&color=0e75b6&style=flat" alt="starias22" />
 
 ## About Me
 
