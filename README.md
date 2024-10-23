@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Data Engineering Student. I love working on projects that involve large-scale data processing and creating solutions that can make a difference.
+Data Engineer with a strong foundation in data architecture, databases, and big data technologies. Passionate about continuous learning in data engineering, driving knowledge discovery, and enabling informed decision-making through data processing and analysis.
 
 - 🔭 I’m currently working on: [Benin Citizen Opinion Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
 - 🌱 I’m currently learning: NoSQL Databases
@@ -28,27 +28,27 @@ I am a Data Engineering Student. I love working on projects that involve large-s
 
 - **Period**:  Since October 2024
   
-- **Summary**: 
+- **Summary**: Developing a data warehouse with a dashboard to analyze Benin citizens' opinions using comments from official government pages and social media.
   
-- **Tools**: 
+- **Tools**: Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI
   
 
 ### [Africa News API](https://github.com/Starias22/Africa-News-API)
 
 - **Period**:  From September to October 2024
   
-- **Summary**: An API aggregating news articles from various African media platforms into a database. These news are then made accessible through dedicated endpoints.
+- **Summary**: Developed a system that aggregates news from various African media platforms into a database and makes them accessible through an API.
   
-- **Tools**: Python, Selenium, Apache Spark, Apache Airflow, PostgreSQL, FastAPI, Docker, Kubernetes
+- **Tools**: PgModeler, PostgreSQL, SQLAlchemy, Python, Selenium, Spark, Airflow, FastAPI, Bash, Docker, Kubernetes, OpenShift, IBM Cloud
 
 
 ### [BI and Data Warehousing Solution for E-commerce](https://github.com/Starias22/BI-and-Data-Warehousing-Solution-for-E-commerce)
 
 - **Period**: September 2024
 
-- **Summary**: Developed a hybrid data platform for e-commerce, integrating MySQL for transactional data with a PostgreSQL staging warehouse and IBM DB2 production warehouse. Implemented ETL processes and created operational dashboards using IBM Cognos Analytics.
+- **Summary**: Developed a data platform for e-commerce, integrating transactional data with staging and production data warehouses. Implemented ETL processes and created dashboards.
   
-- **Tools**: MySQL, PostgreSQL, IBM DB2, IBM Cognos Analytics, Bash, Cron
+- **Tools**: MySQL, phpMyAdmin, PgAdmin, PostgreSQL, IBM Db2 on Cloud, IBM Db2 Python API, IBM Cognos Analytics, Bash, Cron
   
 ### [Big Data News Recommender (Master Semester 2 Capstone Project)](https://github.com/Starias22/Big-Data-News-Recommender)
 
