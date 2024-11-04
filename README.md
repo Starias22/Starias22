@@ -6,7 +6,7 @@
 Data Engineer with a strong foundation in data architecture, databases, and big data technologies. Passionate about continuous learning in data engineering, driving knowledge discovery, and enabling informed decision-making through data processing and analysis.
 
 - 🔭 I’m currently working on: [Benin Citizens Opinion Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
-- 🌱 I’m currently learning: NoSQL Databases
+- 🌱 I’m currently learning: NoSQL Databases (by IBM through Coursera) and AWS Cloud Foundations (by AWS Academy)
 - 👯 I’m looking to collaborate on: Open source projects related to big data, machine learning, and data engineering
 - 💬 Ask me about: Python, Kafka, Redis, Big Data, Machine Learning
 - 📫 How to reach me: Gbetoho.ADEDE@um6p.ma
