@@ -27,12 +27,43 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 ### [Benin Citizen Opinions Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
 
-- **Period**:  Since October 2024
+- **Period**:  Since November 2024
   
 - **Summary**: Developing a data warehouse with a dashboard to analyze Benin citizens' opinions using comments from official government pages and social media.
   
 - **Tools**: Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI
+
+  ### [Smart Customer Support System](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
+
+- **Period**:  Since November 2024
   
+- **Summary**: Developed a Smart FAQs-based Customer Support System using text mining. Enhanced customer experience with quick and accurate responses to common inquiries.
+  
+- **Tools**: Python, SentenceTransformer, Chroma (Vector Database), Flask
+
+  Text Mining Project:  (November 2024)
+
+
+
+
+
+Summary: Developed a Smart FAQs-based Customer Support System using text mining. Enhanced customer experience with quick and accurate responses to common inquiries.
+
+
+Tools: 
+
+Speech Recognition Project: Speech Emotion Detection (November 2024)
+
+
+
+
+
+Summary: Created an ML model to detect emotions from speech by preprocessing audio, extracting MFCC features, and training classifiers.
+
+
+
+Tools: Python, NumPy, Pandas, Librosa, Scikit-learn, TensorFlow
+
 
 ### [Africa News API](https://github.com/Starias22/Africa-News-API)
 
@@ -70,7 +101,9 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 - **Tools**: Flutter, Dart, Firestore, Fingerprint Sensor, Microcontroller (ESP32)
 
 ## My Certifications
- 
+
+ - November 2024, **IBM - Coursera**: [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/records/5XA10PBJHZPJ)
+
 - October 2024, **IBM - Coursera**: [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XDLRTSQS4ZBP) 
 
 - September 2024, **IBM - Coursera**: [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/records/41P3PS4GKMYA) 
