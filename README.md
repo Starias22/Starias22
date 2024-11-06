@@ -33,7 +33,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
   
 - **Tools**: Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI
 
-  ### [Smart Customer Support System (Text Mining Project)](https://github.com/Starias22/Smart-FAQ-Assistant)
+### [Smart Customer Support System (Text Mining Project)](https://github.com/Starias22/Smart-FAQ-Assistant)
 
 - **Period**:  November 2024
   
@@ -41,7 +41,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
   
 - **Tools**: Python, SentenceTransformer, Chroma (Vector Database), Flask
 
-  ### [Speech Emotion Detection (Speech Recognition Project)](https://github.com/Starias22/Speech-Emotion-Detection)
+### [Speech Emotion Detection (Speech Recognition Project)](https://github.com/Starias22/Speech-Emotion-Detection)
 
 - **Period**:  November 2024
   
