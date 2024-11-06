@@ -33,37 +33,21 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
   
 - **Tools**: Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI
 
-  ### [Smart Customer Support System](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
+  ### [Smart Customer Support System (Text Mining Project)](https://github.com/Starias22/Smart-FAQ-Assistant)
 
-- **Period**:  Since November 2024
+- **Period**:  November 2024
   
 - **Summary**: Developed a Smart FAQs-based Customer Support System using text mining. Enhanced customer experience with quick and accurate responses to common inquiries.
   
 - **Tools**: Python, SentenceTransformer, Chroma (Vector Database), Flask
 
-  Text Mining Project:  (November 2024)
+  ### [Speech Emotion Detection (Speech Recognition Project)](https://github.com/Starias22/Speech-Emotion-Detection)
 
-
-
-
-
-Summary: Developed a Smart FAQs-based Customer Support System using text mining. Enhanced customer experience with quick and accurate responses to common inquiries.
-
-
-Tools: 
-
-Speech Recognition Project: Speech Emotion Detection (November 2024)
-
-
-
-
-
-Summary: Created an ML model to detect emotions from speech by preprocessing audio, extracting MFCC features, and training classifiers.
-
-
-
-Tools: Python, NumPy, Pandas, Librosa, Scikit-learn, TensorFlow
-
+- **Period**:  November 2024
+  
+- **Summary**: Created an ML model to detect emotions from speech by preprocessing audio, extracting MFCC features, and training classifiers.
+  
+- **Tools**: Python, NumPy, Pandas, Librosa, Scikit-learn, TensorFlow
 
 ### [Africa News API](https://github.com/Starias22/Africa-News-API)
 
