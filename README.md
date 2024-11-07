@@ -74,7 +74,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 - **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
 
-  ### [OpenMPI Grid Game of Life (Parallel Computing Project)](https://github.com/Starias22/MPI-Grid-Game-of-Life)
+### [OpenMPI Grid Game of Life (Parallel Computing Project)](https://github.com/Starias22/MPI-Grid-Game-of-Life)
 
 - **Period**: March 2024
 
