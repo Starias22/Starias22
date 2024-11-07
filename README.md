@@ -73,6 +73,14 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 - **Summary**: Developed a scalable system using big data technologies to recommend news articles based on user preferences and interactions.
 
 - **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
+
+  ### [OpenMPI Grid Game of Life (Parallel Computing Project)](https://github.com/Starias22/MPI-Grid-Game-of-Life)
+
+- **Period**: March 2024
+
+- **Summary**: Implemented Conway’s Game of Life using Distributed Computing with OpenMPI Grid
+
+- **Tools**: Python, Numpy, Matplotlib, mpi4py
   
 <!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
 
