@@ -20,6 +20,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/starias22/)
+[![Credly](https://www.credly.com/users/gbetoho-ezechiel-adede)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black)](https://medium.com/@Starias22)
 <!--[![Personal Website](https://img.shields.io/badge/Website-red?style=flat&logo=google-chrome&labelColor=red)](https://starias22.github.io/)-->
 
@@ -94,6 +95,8 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 ## My Certifications
 
+- November 2024, **AWS Academy**: [Amazon Web Services (AWS)](https://www.credly.com/badges/ffda0885-f5da-48fc-91de-94fed2d75b7b)
+ - November 2024, **AWS Academy**: [Cloud Foundations](https://www.credly.com/badges/a6127c9c-26ee-4ceb-b75b-e3d43cc6d776)
  - November 2024, **IBM - Coursera**: [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/records/5XA10PBJHZPJ)
 
 - October 2024, **IBM - Coursera**: [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XDLRTSQS4ZBP) 
