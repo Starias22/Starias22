@@ -96,7 +96,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 ## My Certifications
 
-- November 2024, **AWS Academy**: [Amazon Web Services (AWS)](https://www.credly.com/badges/ffda0885-f5da-48fc-91de-94fed2d75b7b)
+- December 2024, **Amazon Web Services (AWS)**: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ffda0885-f5da-48fc-91de-94fed2d75b7b)
  - November 2024, **AWS Academy**: [Cloud Foundations](https://www.credly.com/badges/a6127c9c-26ee-4ceb-b75b-e3d43cc6d776)
  - November 2024, **IBM - Coursera**: [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/records/5XA10PBJHZPJ)
 
