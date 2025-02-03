@@ -27,13 +27,13 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 ## My Projects
 
-### [Benin Citizen Opinions Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
+<!--### [Benin Citizen Opinions Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
 
 - **Period**:  Since November 2024
   
 - **Summary**: Developing a data warehouse with a dashboard to analyze Benin citizens' opinions using comments from official government pages and social media.
   
-- **Tools**: Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI
+- **Tools**: Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI-->
 
 ### [Smart Customer Support System (Text Mining Project)](https://github.com/Starias22/Smart-FAQ-Assistant)
 
