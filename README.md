@@ -84,7 +84,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
   - Built a parallel 2D Poisson solver using MPI Cartesian topologies and Finite Difference Method.
   - Implemented domain decomposition and optimized MPI communication.
 
-- **Tools**: OpenMPI, NumPy, Matplotlib
+- **Tools**: Python, OpenMPI, NumPy, Matplotlib
 
 ### [OpenMPI Grid Game of Life (Parallel Computing Project)](https://github.com/Starias22/MPI-Grid-Game-of-Life)
 
@@ -92,7 +92,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 - **Summary**: Implemented Conway’s Game of Life using Distributed Computing with OpenMPI Grid
 
-- **Tools**: Python, Numpy, Matplotlib, mpi4py
+- **Tools**: Python, OpenMPI, NumPy, Matplotlib
   
 <!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
 
