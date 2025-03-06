@@ -76,7 +76,7 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 - **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
 
-### [Solving 2D Poisson Equation Using MPI Cartesian Topologies (Parallel Computing Project)](https://github.com/Starias22/MPI-Poisson-2D)
+### [Solving 2D Poisson Equation Using MP (Parallel Computing Project)](https://github.com/Starias22/MPI-Poisson-2D)
 
 - **Period**: April 2024
 
