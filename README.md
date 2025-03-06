@@ -76,6 +76,21 @@ Data Engineer with a strong foundation in data architecture, databases, and big 
 
 - **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
 
+
+  Solving 2D Poisson Equation Using MPI Cartesian Topologies (April 2024)
+
+
+### [Solving 2D Poisson Equation Using MPI Cartesian Topologies]([https://github.com/Starias22/Big-Data-News-Recommender](https://github.com/Starias22/MPI-Poisson-2D))
+
+- **Period**: April 2024
+
+- **Summary**:
+  - Built a parallel 2D Poisson solver using MPI Cartesian topologies and Finite Difference Method.
+  - Implemented domain decomposition and optimized MPI communication.
+
+- **Tools**: OpenMPI, NumPy, Matplotlib
+
+
 ### [OpenMPI Grid Game of Life (Parallel Computing Project)](https://github.com/Starias22/MPI-Grid-Game-of-Life)
 
 - **Period**: March 2024
